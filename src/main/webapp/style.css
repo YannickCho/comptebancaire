@@ -1,0 +1,26 @@
+@charset "ISO-8859-1";
+
+.titre {
+  color: green;
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  
+ 
+}
+
+table{
+	border-collapse: collapse;
+	
+	table-layout: fixed;
+}
+
+td{
+	vertical-align: middle;
+	
+}
+
+img{
+	width:300px;
+	height:100px;
+}
